@@ -1,0 +1,34 @@
+holisholisholisholisholisholis/nholis/nholis
+holis
+EL usuario ingreso a la ruta : /about 
+EL usuario ingreso a la ruta : / 
+EL usuario ingreso a la ruta : /about 
+EL usuario ingreso a la ruta : /music 
+EL usuario ingreso a la ruta : /contact 
+EL usuario ingreso a la ruta : /contact 
+EL usuario ingreso a la ruta : /admin 
+EL usuario ingreso a la ruta : /admin 
+EL usuario ingreso a la ruta : /login 
+EL usuario ingreso a la ruta : /login 
+EL usuario ingreso a la ruta : /login 
+EL usuario ingreso a la ruta : / 
+EL usuario ingreso a la ruta : /contact 
+EL usuario ingreso a la ruta : /login 
+EL usuario ingreso a la ruta : /admin?user= 
+EL usuario ingreso a la ruta : /admin?user= 
+EL usuario ingreso a la ruta : /admin?user= 
+EL usuario ingreso a la ruta : / 
+EL usuario ingreso a la ruta : /login 
+EL usuario ingreso a la ruta : /admin?user=utir 
+EL usuario ingreso a la ruta : / 
+EL usuario ingreso a la ruta : /login 
+EL usuario ingreso a la ruta : /admin?user=Tim 
+EL usuario ingreso a la ruta : /admin?user=Tim 
+EL usuario ingreso a la ruta : /admin?user=Tim 
+EL usuario ingreso a la ruta : /admin?user=Tim 
+EL usuario ingreso a la ruta : /login 
+EL usuario ingreso a la ruta : /admin?user=uri 
+EL usuario ingreso a la ruta : /noEntry 
+EL usuario ingreso a la ruta : /noEntry 
+EL usuario ingreso a la ruta : /noEntry 
+EL usuario ingreso a la ruta : / 
